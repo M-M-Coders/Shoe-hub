@@ -1,0 +1,32 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "category": "Running Shoes",
+      "description": "High-performance running shoes designed for maximum comfort and support.",
+      "price": 99.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEaBthwryem5vxlVB60xmioCBB1sUIRM69w&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "category": "Sneakers",
+      "description": "Casual and stylish sneakers suitable for everyday wear.",
+      "price": 79.99,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/hbz-sneakers-index-1583427683.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Athletic Shoes",
+      "description": "Versatile athletic shoes perfect for various sports activities.",
+      "price": 89.99,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/91d200d0-8a0a-4f1c-a848-548283e0b80b/pegasus-trail-4-gore-tex-womens-waterproof-trail-running-shoes-9knDsQ.png"
+    },
+    {
+      "id": 4,
+      "category": "Boots",
+      "description": "Stylish and durable boots for both casual and formal occasions.",
+      "price": 129.99,
+      "image": "https://preview.redd.it/thoughts-on-these-boots-to-be-worn-mostly-with-leggings-v0-453pufnnuerb1.png?width=640&crop=smart&auto=webp&s=c772b8bd8dcdc7c2d23bf5cf71ef212c5e395d3e"
+    }
+  ]
+}

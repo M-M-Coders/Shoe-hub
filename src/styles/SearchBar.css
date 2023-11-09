@@ -1,0 +1,23 @@
+.search-bar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0056b3;
+   }
+   
+   .search-bar-input {
+    width: 100%;
+    max-width: 700px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    outline: none;
+   }
+   
+   .search-bar-input:focus {
+    border-color: #66afe9;
+   }
