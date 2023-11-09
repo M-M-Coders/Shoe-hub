@@ -1,5 +1,4 @@
-
-# Phase 2 Week 2 Code Challenge
+# Phase 2 Project Week
 
 *****
 ### Author : Jared Amima Nov 9 2023
