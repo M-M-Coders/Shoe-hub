@@ -16,7 +16,7 @@ function Login() {
         <label htmlFor="password">Password</label>
         <input type="password" id="password" name="password" placeholder="Password" />
         {/* Wrap only the "Login" button with Link */}
-        <Link to='/home'>
+        <Link to='/'>
           <input type="submit" value="Login" />
         </Link>
       </form>
