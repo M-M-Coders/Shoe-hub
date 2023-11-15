@@ -20,7 +20,7 @@ function Home() {
   const handleAddToCart = (shoe) => {
     // Perform any logic related to adding to the cart here
     // For now, let's just show an alert message
-    alert(`Added ${shoe.category} to the cart!`);
+    alert(`Added ${shoe.category} to the cart!  Price :$${shoe.price}`);
   };
 
   const handleSearch = (filteredData) => {
