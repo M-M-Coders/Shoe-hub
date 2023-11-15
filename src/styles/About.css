@@ -1,7 +1,8 @@
 /* About.css */
 
 .about-container {
-    max-width: 800px;
+    max-width: 900px;
+    height: 100vh;
     margin: auto;
     padding: 20px;
     background-color: white; /* Set the background color to white */
