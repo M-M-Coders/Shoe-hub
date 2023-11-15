@@ -15,7 +15,7 @@ Shoe Hub is a fully responsive e-commerce website that focuses on providing the 
 
 ## LIVE LINK
 
-To access the app, visit :
+To access the app, visit :https://shoe-hub-flax.vercel.app/
 
 
 
