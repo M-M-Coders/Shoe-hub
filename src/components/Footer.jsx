@@ -45,9 +45,9 @@ function Footer() {
       </div>
       <div className="contact-info">
         <h3>Contact Us</h3>  
-        <p>123 Example Street,</p>
+        <p>4rth Street,</p>
         <p>Cityville, ST 12345</p>
-        <p>Email: info@example.com</p>
+        <p>Email: eceeShoes@gmail.com</p>
         <p>Phone: +1 (123) 456-7890</p>
       </div>
       <div className="additional-info">
