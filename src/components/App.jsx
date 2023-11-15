@@ -6,7 +6,7 @@ import Login from "./Login";
 import NavBar from "./NavBar";
 import Footer from "./Footer";
 import { Footprints } from "lucide-react";
-import { User2 } from "lucide-react";
+import { UserCircle } from 'lucide-react';
 import { Menu } from "lucide-react";
 import { Link } from "react-router-dom";
 import "../styles/App.css";
@@ -22,7 +22,7 @@ function App() {
             SHOE HUB <Footprints size={30} />
           </h1>
           <Link to="/login" className="login">
-            <User2 className="icon" size={30} />
+            <UserCircle className="icon" size={35} />
           </Link>
         </div>
         <div className="Ap-search">
