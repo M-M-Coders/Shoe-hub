@@ -28,7 +28,7 @@ function Home() {
                     <div className="shoe-card" key={shoe.id}>
                         <img className="shoe-image" src={shoe.image} alt="" />
                         <h3 className="shoe-category">{shoe.category}</h3>
-                        <p className="shoe-price">Price: {shoe.price}</p>
+                        <p className="shoe-price">Price:${shoe.price}</p>
                         <button className="shoe-button" onClick={() => handleAddToCart(shoe)}>
                             Add to Cart <ShoppingCart size={17} />
                         </button>
