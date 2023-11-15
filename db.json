@@ -12,7 +12,7 @@
       "category": "Sneakers",
       "description": "Casual and stylish sneakers suitable for everyday wear.",
       "price": 79.99,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/hbz-sneakers-index-1583427683.jpg"
+      "image": "https://www.lestyleparfait.co.ke/cdn/shop/files/tokyo-men-s-sneaker-shoes-lestyleparfait-kenya-9.jpg?v=1691098084&width=1445"
     },
     {
       "id": 3,
@@ -27,6 +27,330 @@
       "description": "Stylish and durable boots for both casual and formal occasions.",
       "price": 129.99,
       "image": "https://preview.redd.it/thoughts-on-these-boots-to-be-worn-mostly-with-leggings-v0-453pufnnuerb1.png?width=640&crop=smart&auto=webp&s=c772b8bd8dcdc7c2d23bf5cf71ef212c5e395d3e"
-    }
+    },
+    {
+      "id": 5,
+      "category": "Sandals",
+      "description": "Lightweight sandals that are perfect for the beach or casual wear.",
+      "price": 49.99,
+      "image": "https://www.shutterstock.com/image-photo/brown-color-shoes-sandle-260nw-640081699.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Dress Shoes",
+      "description": "Formal shoes for special occasions such as weddings or parties.",
+      "price": 149.99,
+      "image": "https://www.lestyleparfait.co.ke/cdn/shop/files/fashion-derby-shoes-mens-dress-shoes-patent-leather-shoes-lestyleparfait-kenya-2.jpg?v=1691081522&width=1445"
+    },
+    {
+      "id": 7,
+      "category": "Slippers",
+      "description": "Comfortable slippers that are perfect for wearing around the house.",
+      "price": 19.99,
+      "image": "https://www.sleep.co.ke/wp-content/uploads/2021/08/hotel-room-slipper-500x500-1.jpg"
+    },
+    {
+      "id": 8,
+      "category": "Flip Flops",
+      "description": "Lightweight flip flops that are perfect for the beach or casual wear.",
+      "price": 9.99,
+      "image": "https://m.media-amazon.com/images/I/61f7FgFNmAL._SL1500_.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Loafers",
+      "description": "Casual loafers that are stylish and comfortable for everyday wear.",
+      "price": 69.99,
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hea/hf7/49871540879390/480Wx480H_87253_main.jpg"
+    },
+    {
+      "id": 10,
+      "category": "Clogs",
+      "description": "Comfortable clogs that are perfect for wearing around the house.",
+      "price": 29.99,
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/33/0892911/1.jpg?6055"
+    },
+    {
+      "id": 11,
+      "category": "Oxfords",
+      "description": "Formal oxfords for special occasions such as weddings or parties.",
+      "price": 99.99,
+      "image": "https://www.tlbmallorca.com/cdn/shop/products/516-OLIVER-BOXCALF-NEGRO-PAIR-SIDE_L.jpg?v=1676550373&width=1946"
+    },
+    {
+      "id": 12,
+      "category": "Mules",
+      "description": "Comfortable mules that are perfect for wearing around the house.",
+      "price": 39.99,
+      "image": "https://m.media-amazon.com/images/I/61Pyl754+YL._AC_UY1000_.jpg"
+    },
+    {
+      "id": 13,
+      "category": "Nike runners",
+      "description": "High-performance running shoes designed for maximum comfort and support.",
+      "price": 99.99,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/run-nike-running-shoes-1661870227.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*"
+    },
+    {
+      "id": 14,
+      "category": "Nike lowdunks",
+      "description": "Casual and stylish sneakers suitable for everyday wear.",
+      "price": 79.99,
+      "image": "https://sothebys-com.brightspotcdn.com/ed/19/165c0e474ae6874a67958f895412/453sneakers-bxdjv-01.jpg"
+    },
+    {
+      "id": 15,
+      "category": "Lebrons",
+      "description": "Versatile athletic shoes perfect for various sports activities.",
+      "price": 89.99,
+      "image": "https://www.designboom.com/wp-content/uploads/2017/11/NIKE-LEBRON-15-basketball-sneaker-jason-petrie-designboom-01.jpg"
+    },
+    {
+      "id": 16,
+      "category": "Steph Curry",
+      "description": "Stylish and durable boots for both casual and formal occasions.",
+      "price": 129.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdC6mpGJOLTWd8xxo3D2bR-qm3H0bVvHZ84A&usqp=CAU"
+    },
+    {
+      "id": 17,
+      "category": "Durant",
+      "description": "Lightweight sandals that are perfect for the beach or casual wear.",
+      "price": 49.99,
+      "image": "https://footwearnews.com/wp-content/uploads/2022/04/DC1975-001-PHCFH001-e1650376499977.png"
+    },
+    {
+      "id": 18,
+      "category": "Jordan",
+      "description": "Formal shoes for special occasions such as weddings or parties.",
+      "price": 149.99,
+      "image": "https://www.si.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_620%2Cx_601%2Cy_623/MTk0MzI2Njg2MjQ0ODA4MTk3/jordan-11.jpg"
+    },
+    {
+      "id": 19,
+      "category": "Air Force",
+      "description": "Comfortable slippers that are perfect for wearing around the house.",
+      "price": 19.99,
+      "image": "https://www.shoepalace.com/cdn/shop/products/de2d62d27f9885d03aad1c91102651e4_2048x2048.jpg?v=1680196183&title=nike-cz0326-100-air-force-1-07-mens-lifestyle-shoes-white-red"
+    },
+    {
+      "id": 20,
+      "category": "clarke",
+      "description": "Lightweight flip flops that are perfect for the beach or casual wear.",
+      "price": 9.99,
+      "image": "https://i.ebayimg.com/images/g/gS4AAOSwe0de4PGu/s-l1200.webp"
+    },
+     {
+      "id": 21,
+      "category": "working shoes",
+      "description": "Casual loafers that are stylish and comfortable for everyday wear.",
+      "price": 69.99,
+      "image": "https://umoja.africa/cdn/shop/products/Ace-Mamba-Safety-Shoes-Blue-2_1024x.jpg?v=1622716969"
+    }, 
+    {
+      "id": 22,
+      "category": "Hiking shoes",
+      "description": "Comfortable clogs that are perfect for wearing around the house.",
+      "price": 29.99,
+      "image": "https://images.pexels.com/photos/40662/shoes-footwear-hiking-shoes-walking-40662.jpeg?cs=srgb&dl=pexels-pixabay-40662.jpg&fm=jpg"
+    }, 
+    {
+      "id": 23,
+      "category": "Bike shoes",
+      "description": "Formal oxfords for special occasions such as weddings or parties.",
+      "price": 99.99,
+      "image": "https://d2wax9jsznmsse.cloudfront.net/media/catalog/product/cache/02965f21d3991a5152c710fb6088079b/f/i/fizik-tempo-carbon-decos-1-purple-black-road-cycling-shoes-with-carbon-outsole.jpg"
+    }, 
+    {
+      "id": 24,
+      "category": "Vans",
+      "description": "Comfortable mules that are perfect for wearing around the house.",
+      "price": 39.99,
+      "image": "https://forstarsfootwear.co.ke/2977-superlarge_default/vans-old-skool-skate-shoes-black-and-white.jpg"
+    }, 
+    {
+      "id": 25,
+      "category": "Timberland",
+      "description": "High-performance running shoes designed for maximum comfort and support.",
+      "price": 99.99,
+      "image": "https://i.pinimg.com/550x/dd/14/1a/dd141a9a412ca718372a215c062aa3aa.jpg"
+    }, 
+    {
+      "id": 26,
+      "category": "Simbaland",
+      "description": "Casual and stylish sneakers suitable for everyday wear.",
+      "price": 79.99,
+      "image": "https://i.pinimg.com/736x/23/66/9b/23669b757ac6a520fee5ab8ba22bd285.jpg"
+    }, 
+    {
+      "id": 27,
+      "category": "football shoes",
+      "description": "Versatile athletic shoes perfect for various sports activities.",
+      "price": 89.99,
+      "image": "https://i.pinimg.com/236x/45/51/07/45510700ef1787d8c36f270702b20f91.jpg"
+    }, 
+    {
+      "id": 28,
+      "category": "Security-Boots",
+      "description": "Stylish and durable boots for both casual and formal occasions.",
+      "price": 129.99,
+      "image": "https://i.pinimg.com/564x/cb/8d/89/cb8d896bbf9597842f60541afaeaf665.jpg"
+    }, 
+    {
+      "id": 29,
+      "category": "crocks",
+      "description": "Lightweight sandals that are perfect for the beach or casual wear.",
+      "price": 49.99,
+      "image": "https://www.shutterstock.com/image-photo/leesburg-virginia-usa-21092022-pair-600nw-2206390929.jpg"
+    }, 
+    {
+      "id": 30,
+      "category": "Drivingshoes",
+      "description": "Formal shoes for special occasions such as weddings or parties.",
+      "price": 149.99,
+      "image": "https://i.pinimg.com/736x/01/d4/41/01d441e0b172f23f2be10666feb8e061.jpg"
+    },
+    {
+      "id": 31,
+      "category": "Nike FlyEase",
+      "description": "Comfortable slippers that are perfect for wearing around the house.",
+      "price": 19.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsgka_CSBNbJ2FgqLMI-D5dCAjnTw9nKgzw&usqp=CAU"
+    },
+     {
+      "id": 32,
+      "category": "Nike ZoomX",
+      "description": "Lightweight flip flops that are perfect for the beach or casual wear.",
+      "price": 9.99,
+      "image": "https://m.media-amazon.com/images/I/41xpDIBr6hL.jpg"
+     },
+     {
+      "id": 33,
+      "category": "Ballet Shoes",
+      "description": "Casual loafers that are stylish and comfortable for everyday wear.",
+      "price": 69.99,
+      "image": "https://contents.mediadecathlon.com/p1816518/k$0035f48e9a11de25c8301de2c4220f49/leather-full-sole-demi-pointe-shoes-with-straps-sizes-75c-to-65-pink.jpg?format=auto&quality=40&f=452x452"
+     },
+     {
+      "id": 34,
+      "category": "Beach Shoes",
+      "description": "Comfortable clogs that are perfect for wearing around the house.",
+      "price": 29.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/7159oVUjxQL.jpg"
+     },
+     {
+      "id": 35,
+      "category": "Brogan Shoes",
+      "description": "Formal oxfords for special occasions such as weddings or parties.",
+      "price": 99.99,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Brogans_MET_50.100.12a-b_CP4.jpg"
+     },
+     {
+      "id": 36,
+      "category": "Nike React",
+      "description": "Comfortable mules that are perfect for wearing around the house.",
+      "price": 39.99,
+      "image": "https://cdn.shopify.com/s/files/1/0942/6160/files/nike-epic-react-flyknit-review.jpg?v=1580893579"
+     },
+     {
+      "id": 37,
+      "category": "Air Jordan 2",
+      "description": "High-performance running shoes designed for maximum comfort and support.",
+      "price": 99.99,
+      "image": "https://www.si.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_1254%2Cy_842/MTk0NzczNjc5ODY1ODY1NzUy/air-jordan-2.jpg"
+     },
+     {
+      "id": 38,
+      "category": "Air Jordan 3",
+      "description": "Casual and stylish sneakers suitable for everyday wear.",
+      "price": 79.99,
+      "image": "https://www.si.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_541%2Cy_626/MTkyMDI5NDU2MTQ2MTEzOTkx/air-jordan-3.jpg"
+     },
+     {
+      "id": 39,
+      "category": "Air Jordan 4",
+      "description": "Versatile athletic shoes perfect for various sports activities.",
+      "price": 89.99,
+      "image": "https://crepdogcrew.com/cdn/shop/files/2_2c858fa9-fbf8-4fcc-9621-e9c19bd31561_800x.png?v=1693645783"
+     },
+     {
+      "id": 40,
+      "category": "Air Jordan 5",
+      "description": "Stylish and durable boots for both casual and formal occasions.",
+      "price": 129.99,
+      "image": "https://cdn.sanity.io/images/c1chvb1i/production/da17311d0e8f2534b3ab7b48bc19026fe4acc590-1600x1140.jpg/AIR-JORDAN-5.jpg"
+     },
+     {
+      "id": 41,
+      "category": "Derby Shoes",
+      "description": "Lightweight sandals that are perfect for the beach or casual wear.",
+      "price": 49.99,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/A_Plein_Derby.jpg"
+     },
+     {
+      "id": 42,
+      "category": "Moccasins",
+      "description": "Formal shoes for special occasions such as weddings or parties.",
+      "price": 149.99,
+      "image": "https://m.media-amazon.com/images/I/51XdBzxUtoL._AC_UY1000_.jpg"
+     },
+     {
+      "id": 43,
+      "category": "Chelsea Boots",
+      "description": "Comfortable slippers that are perfect for wearing around the house.",
+      "price": 19.99,
+      "image": "https://www.voganow.com/cdn/shop/products/VNGS-013_1_6660339b-b848-4c30-99d6-d80a9accfa02.jpg?v=1653717774"
+     },
+     {
+      "id": 44,
+      "category": "Chukka Boots",
+      "description": "Lightweight flip flops that are perfect for the beach or casual wear.",
+      "price": 9.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYeDFSnhQOyPbZF2_3xMA_2q9NO-akkeTjg&usqp=CAU"
+     },
+     {
+      "id": 45,
+      "category": "Loafers",
+      "description": "Casual loafers that are stylish and comfortable for everyday wear.",
+      "price": 69.99,
+      "image": "https://www.dhresource.com/0x0/f2/albu/g10/M01/0D/0D/rBVaVl0ZQXeAe7XfAAJQ8Z2Z3ZQ589.jpg"
+     },
+     {
+      "id": 46,
+      "category": "Clogs",
+      "description": "Comfortable clogs that are perfect for wearing around the house.",
+      "price": 29.99,
+      "image": "https://www.dhresource.com/0x0/f2/albu/g10/M01/0D/0D/rBVaVl0ZQXeAe7XfAAJQ8Z2Z3ZQ589.jpg"
+     },
+     {
+      "id": 47,
+      "category": "Oxfords",
+      "description": "Formal oxfords for special occasions such as weddings or parties.",
+      "price": 99.99,
+      "image": "https://www.dhresource.com/0x0/f2/albu/g10/M01/0D/0D/rBVaVl0ZQXeAe7XfAAJQ8Z2Z3ZQ589.jpg"
+     },
+     {
+      "id": 48,
+      "category": "Mules",
+      "description": "Comfortable mules that are perfect for wearing around the house.",
+      "price": 39.99,
+      "image": "https://www.dhresource.com/0x0/f2/albu/g10/M01/0D/0D/rBVaVl0ZQXeAe7XfAAJQ8Z2Z3ZQ589.jpg"
+     },
+     {
+      "id": 49,
+      "category": "Running Shoes",
+      "description": "High-performance running shoes designed for maximum comfort and support.",
+      "price": 99.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEaBthwryem5vxlVB60xmioCBB1sUIRM69w&usqp=CAU"
+     },
+     {
+      "id": 50,
+      "category": "Sneakers",
+      "description": "Casual and stylish sneakers suitable for everyday wear.",
+      "price": 79.99,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/hbz-sneakers-index-1583427683.jpg"
+     }
   ]
 }
+    
+    

@@ -52,100 +52,53 @@
 /* styles.css */
 
 .shoes-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 20px;
-    transition: transform 0.3s ease;
-  }
-  
-  .shoes-container:hover {
-    transform: translateY(-50px);
-  }
-  
-  .shoe-card {
-    width: 250px;
-    height: 380px;
-    margin: 20px;
-    padding: 15px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  
-  .shoe-card:hover {
-    transform: translateY(0);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  }
-  
-  .shoe-id {
-    font-size: 14px;
-    color: #888;
-  }
-  
-  .shoe-image {
-    width: 100%;
-    height: auto;
-    border-radius: 5px;
-    margin-top: 10px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  
-  .shoe-image:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  }
-  
-  .shoe-category {
-    margin-top: 10px;
-    font-size: 18px;
-  }
-  
-  .shoe-price {
-    margin-top: 10px;
-    font-size: 16px;
-    color: #007bff;
-  }
-  
-  .shoe-button {
-    margin-top: 15px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .shoe-button:hover {
-    background-color: #0056b3;
-  }
-
-  /* styles.css */
-
-.down {
-    font-size: 46px;
-    text-decoration: underline;
-    letter-spacing: 20px;
-    padding-bottom: 20px;
-  }
-  
-  .btn {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 15px 30px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 18px;
-    transition: background-color 0.3s ease;
-  }
-  
-  .btn:hover {
-    background-color: #0056b3;
-    transition: background-color 0.3s ease;
-  }
-  
-  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+ }
+ 
+ .shoe-card {
+  background-color: white;
+  width: 200px;
+  height: 420px;
+  border-radius: 10px;
+  margin: 15px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ }
+ 
+ .shoe-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+ }
+ 
+ .shoe-category {
+  color: #4A4A4A;
+  margin-top: 10px;
+ }
+ 
+ .shoe-price {
+  color: #737373;
+  margin-top: 5px;
+ }
+ 
+ .shoe-button {
+  background-color: #2F80ED;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 15px;
+ }
+ 
+ .btn {
+  background-color: #2F80ED;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 20px;
+ }

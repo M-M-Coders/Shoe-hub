@@ -10,6 +10,8 @@ Shoe Hub is a fully responsive e-commerce website that focuses on providing the 
 ******
 
 ## SCREENSHOTS
+![Screenshot from 2023-11-15 11-57-12](https://github.com/M-M-Coders/Shoe-hub/assets/144310680/dcb3fb33-ef54-48c1-89b9-772cc5858b2b)
+![Screenshot from 2023-11-15 11-58-13](https://github.com/M-M-Coders/Shoe-hub/assets/144310680/20102cb0-e6df-4dc6-a302-3d837bd43ec9)
 
 ## LIVE LINK
 
