@@ -5,7 +5,6 @@ import About from "./About";
 import Login from "./Login";
 import NavBar from "./NavBar";
 import Footer from "./Footer";
-import SearchBar from "./SearcBar";
 import { Footprints } from "lucide-react";
 import { User2 } from "lucide-react";
 import { Menu } from "lucide-react";
@@ -28,7 +27,6 @@ function App() {
         </div>
         <div className="Ap-search">
           <Menu />
-          <SearchBar />
         </div>
         <NavBar setLoggedIn={setLoggedIn} />
         <Routes>
