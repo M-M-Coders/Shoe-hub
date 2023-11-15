@@ -47,7 +47,7 @@ function Footer() {
         <h3>Contact Us</h3>  
         <p>4rth Street,</p>
         <p>Cityville, ST 12345</p>
-        <p>Email: eceeShoes@gmail.com</p>
+        <p>Email: eceeshoes@gmail.com</p>
         <p>Phone: +1 (123) 456-7890</p>
       </div>
       <div className="additional-info">
